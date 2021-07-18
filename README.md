@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126080517-9bae7342-e79d-4f07-9c2b-16ec50d90f73.png">
   <br />
   Photonics Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/126080546-46b30818-4754-43e2-b6c5-89f093287183.png">
   <br />
 </p>
 
@@ -277,7 +277,7 @@
 [Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/94961906-704d5600-04aa-11eb-8721-34266eee5200.png">
+ <img src="https://user-images.githubusercontent.com/45159366/126080648-b515b7c0-e1bd-481b-92d2-c9cdd98ac30c.png">
   <br />
 </p>
 
