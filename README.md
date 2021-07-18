@@ -11,7 +11,9 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126080546-46b30818-4754-43e2-b6c5-89f093287183.png">
   <br />
-</p>
+</p> 
+
+# Table of Contents
 
 1. [Photonics Learning Resources](https://github.com/mikeroyal/Photonics-Guide#photonics-learning-resources)
 
