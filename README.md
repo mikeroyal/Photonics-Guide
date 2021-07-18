@@ -21,7 +21,7 @@
 
 3. [Machine Learning](https://github.com/mikeroyal/Photonics-Guide#machine-learning)
 
-4. [MATLAB](https://github.com/mikeroyal/Photonics-Guide#matlab)
+4. [MATLAB Development](https://github.com/mikeroyal/Photonics-Guide#matlab-development)
 
 5. [R Development](https://github.com/mikeroyal/Photonics-Guide#r-development)
 
@@ -276,7 +276,7 @@
 [GNU Octave](https://www.gnu.org/software/octave/) is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
 
 # R Development
-[Back to the Top](https://github.com/mikeroyal/Machine-Learning-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Photoonics-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/126080648-b515b7c0-e1bd-481b-92d2-c9cdd98ac30c.png">
@@ -284,7 +284,6 @@
 </p>
 
 # R Learning Resources
-[Back to the Top](https://github.com/mikeroyal/Photonics-Guide#table-of-contents)
 
 [R](https://www.r-project.org/) is an open source software environment for statistical computing and graphics. It compiles and runs on a wide variety of  platforms such as Windows and MacOS.
 
